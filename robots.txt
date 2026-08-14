@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-e5uc2m.togel178dkk.site/sitemap.xml
